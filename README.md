@@ -44,4 +44,4 @@ Enter any realistic name, valid email address, and password with at least 8 char
 
 - Student name / NPM: pending user confirmation
 - GitHub repository: https://github.com/AreeL1801/kampusmarket-uas-mobile
-- Demo video link: pending upload
+- Demo video: https://github.com/AreeL1801/kampusmarket-uas-mobile/releases/tag/demo-video
