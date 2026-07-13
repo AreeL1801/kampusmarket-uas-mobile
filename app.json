@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "KampusMarket",
+    "slug": "kampusmarket-uas-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    },
+    "extra": {
+      "apiBaseUrl": "https://dummyjson.com"
+    }
+  }
+}
