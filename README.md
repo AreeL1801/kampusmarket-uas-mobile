@@ -43,5 +43,5 @@ Enter any realistic name, valid email address, and password with at least 8 char
 ## Submission Placeholders
 
 - Student name / NPM: pending user confirmation
-- GitHub repository: pending
+- GitHub repository: https://github.com/AreeL1801/kampusmarket-uas-mobile
 - Demo video link: pending upload
